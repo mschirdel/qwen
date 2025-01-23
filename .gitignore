@@ -1,0 +1,5 @@
+mlx/*
+*.egg-info
+build
+.gradio
+.venv
